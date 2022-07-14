@@ -1,0 +1,4 @@
+config_dir: 'config/'
+logs_dir: 'logs/'
+neptune_username: ''
+neptune_token: ''
